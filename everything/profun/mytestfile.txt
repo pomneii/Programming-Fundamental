@@ -1,0 +1,5 @@
+Name : Pink 	Level : 0 	Score : 100 
+Name : Junior 	Level : 1 	Score : 200 
+Name : Tinny 	Level : 2 	Score : 300 
+Name : Namm 	Level : 3 	Score : 400 
+Name : Jonor 	Level : 4 	Score : 500 
