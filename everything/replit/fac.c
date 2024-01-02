@@ -1,12 +1,13 @@
+
 /*
   
   จงเขียนโปรแกรมรับ input เป็นตัวเลขจำนวนเต็ม 1 ตัวแล้วแสดงผลเป็นการแยกตัวประกอบ
 
-input : 100
-output : 2 x 2 x 5 x 5
+  input : 100
+  output : 2 x 2 x 5 x 5
 
-input : 68
-output : 2 x 2 x 17
+  input : 68
+  output : 2 x 2 x 17
   
   */
 

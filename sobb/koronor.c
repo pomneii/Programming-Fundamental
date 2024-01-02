@@ -1,4 +1,8 @@
 
+/*
+    หา ค.ร.น. ของเลข 3 ตัว
+*/
+
 #include <stdio.h>
 
 int main() {

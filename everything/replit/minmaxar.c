@@ -1,3 +1,8 @@
+
+/*
+  find min and max
+*/
+
 #include <stdio.h>
 
 int Find_Min(int num[5]) {
@@ -31,7 +36,7 @@ int Find_Max(int num[5]) {
 int main(void) {
   int min, max;
   int ar_size = 5;
-  int num[ar_size];
+  int num[5];
   printf("Enter 5 numbers : ");
   for(int i = 0 ; i < 5 ; i++) {
     scanf("%d", &num[i]);

@@ -1,4 +1,8 @@
 
+/*
+    เช็คว่าเป็น palindrome หรือไม่
+*/
+
 #include <stdio.h>
 #include <string.h>
 

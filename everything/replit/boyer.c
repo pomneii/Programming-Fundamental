@@ -42,13 +42,13 @@ void check(char *str, int size, int bd[256]) {
     }
 }
 
-void findWord(char *text, char *word) {
+void findWord(char *str, char *word) {
     int m = strlen(word);
     int n = strlen(str);
 
     int bd[256];
 
-    int check = 0;
+    int checks = 0;
 
     check(word, m, bd);
 
@@ -63,7 +63,7 @@ void findWord(char *text, char *word) {
 
         if (j < 0) {
             printf("%d\n", s);
-            check++;
+            checks++;
 
             s += (s + m < n) ? m - bd[str[s + m]] : 1;
         } else {

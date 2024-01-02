@@ -1,18 +1,19 @@
+
 /*
   จงเขียนโปรแกรมรับ input เป็นตัวเลข 2 ตัวแล้วแสดงผลค่า ห.ร.ม ของตัวเลขทั้งสอง
 
-Test Case 1:
-input : 
-Number 1: 12
-Number 2: 18
-Expected Output: GCD = 6
+  Test Case 1:
+  input : 
+  Number 1: 12
+  Number 2: 18
+  Expected Output: GCD = 6
 
-Test Case 2:
-input : 
-Number 1: 25
-Number 2: 5
-Expected Output: GCD = 5
-  */
+  Test Case 2:
+  input : 
+  Number 1: 25
+  Number 2: 5
+  Expected Output: GCD = 5
+*/
 
 #include <stdio.h>
 

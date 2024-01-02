@@ -1,11 +1,12 @@
+
 /*
   ให้นักศึกษาเขียนโปรแกรมรับ string 1 ชุดแล้วตรวจสอบว่าเป็น email address ที่ถูกต้องหรือไม่
-ตัวอย่าง
-input : thanunchai.th@kmitl.ac.th
-output : email address
+  ตัวอย่าง
+  input : thanunchai.th@kmitl.ac.th
+  output : email address
 
-input : thanunchai.kmitl.ac.th
-output : not email address
+  input : thanunchai.kmitl.ac.th
+  output : not email address
 */
 
 #include <stdio.h>

@@ -1,5 +1,5 @@
-Name : Pink 	Level : 0 	Score : 100 
-Name : Junior 	Level : 1 	Score : 200 
-Name : Tinny 	Level : 2 	Score : 300 
-Name : Namm 	Level : 3 	Score : 400 
-Name : Jonor 	Level : 4 	Score : 500 
+Name : cd 	Level : 32759 	Score : 8 
+Name : "d:\KMITL\1D\coderaiwaa\ever; 	Level : 1549885815 	Score : 1919252069 
+Name : ; 	Level : 0 	Score : -418244736 
+Name : if 	Level : 0 	Score : 0 
+Name : ($?) 	Level : 0 	Score : 54 

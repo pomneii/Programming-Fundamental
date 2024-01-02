@@ -1,3 +1,8 @@
+
+/*
+    dec --> bi
+*/
+
 #include <stdio.h> 
 
 int main() {
